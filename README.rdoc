@@ -1,3 +1,8 @@
 = FpActsAsMoney
+This exists only because i wish to silence some errors while using giant crufty old rails 2.x models in a one-off rails 3 app
+That used a non compatable acts_as_money plugin. 
 
-This project rocks and uses MIT-LICENSE.
+This gem is basically that plugin in gem form and really introduces no new features that rails 3 does not already provide better. 
+
+Expect this project to die at any moment. 
+
